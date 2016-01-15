@@ -1,5 +1,15 @@
+---
+output: html_document
+---
 # crabr
-Crabs are tasty. Not so much when eating them can kill you and your family. 
+
+-------------------------------------------------------------------------------
+R code to plot trends in Domoic Acid from sampled crabs. 
+
+[Sampling data available from the California Dept. of Public Health](http://www.cdph.ca.gov/HealthInfo/Pages/fdbDomoicAcidInfo.aspx)
+-------------------------------------------------------------------------------
+
+Crabs are tasty. Not so much when eating them can make you sick. 
 
 During 2015, the west coast of the U.S. experienced anomolously warm sea-surface temperatures (SST). The normal cycle of spring winds never materialized. Spring winds drive upwelling. Without spring winds, temperatures rise. Phytoplanktin thrive in such conditions. Their bundance went through the roof (Fueled by the anomolously warm water). 
 
